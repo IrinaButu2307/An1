@@ -1,0 +1,17 @@
+4
+a
+2 
+0 1
+1
+d
+10
+a 0 a
+a 1 a
+a 0 b
+b 0 c
+b 0 d
+b 1 d
+c 0 c
+c 1 c
+c 0 d
+d 1 b
